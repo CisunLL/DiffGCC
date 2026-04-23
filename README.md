@@ -1,8 +1,5 @@
 # DiffGCC: Diffusion-Enhanced Global-Local Graph Contrastive Clustering
 
-## 📖 Introduction
-[这里可以简述一下 DiffGCC 的核心贡献：如何利用扩散模型进行去噪以及全局-局部对比的具体意义]
-
 ## 🛠️ Methodology
 ![Framework](https://github.com/user-attachments/assets/7045bf0b-01f3-4f7d-83fe-9f92d7012c88)
 
