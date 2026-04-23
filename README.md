@@ -4,7 +4,7 @@
 ![Framework](https://github.com/user-attachments/assets/7045bf0b-01f3-4f7d-83fe-9f92d7012c88)
 
 ## ⚙️ Dependencies
-- PyTorch, DGL, scikit-learn, numpy
+- PyTorch, dgl (only as the source of datasets), scikit-learn, numpy
 
 ## 📊 Datasets
 We use four benchmark datasets provided by DGL:
